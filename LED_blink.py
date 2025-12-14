@@ -22,6 +22,8 @@ except:
     # You won't get any error messages for debugging  
     # so only use it once your code is working  
     print ("Other error or exception occurred!" )
+    print("I'm youssef!")
+    print("I'm youssef!")
   
 finally:  
     GPIO.cleanup() # this ensures a clean exit  
